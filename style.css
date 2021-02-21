@@ -1,0 +1,68 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    text-align: center;
+    margin-bottom: 100px;
+}
+
+.bg_cover {
+    background-repeat: no-repeat !important;
+    background-size: cover !important;
+    background-position: center !important;
+}
+
+.pt-25 {
+    padding-top: 25px;
+}
+
+.mt-25 {
+    margin-top: 25px;
+}
+
+.gallery {
+    margin-bottom: 100px;
+    margin-top: 100px;
+}
+
+.gallery .image_1 {
+    overflow: hidden;
+    height: 300px;
+}
+
+.gallery .image_2 {
+    overflow: hidden;
+    height: 300px;
+}
+
+.gallery .image_3 {
+    overflow: hidden;
+    height: 625px;
+}
+
+.gallery .image_4 {
+    overflow: hidden;
+    height: 625px;
+}
+
+.gallery .image_5 {
+    overflow: hidden;
+    height: 300px;
+}
+
+.gallery .image_6 {
+    overflow: hidden;
+    height: 300px;
+}
+
+.gallery .image_7 {
+    overflow: hidden;
+    height: 300px;
+}
+
+.gallery .image_8 {
+    overflow: hidden;
+    height: 300px;
+}
